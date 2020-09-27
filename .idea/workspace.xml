@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f5a07115-337e-4d69-8d7f-e788e9485e56" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Script" />
+        <option value="Kotlin File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1i4CFYNUIMA4q1u2gdcBw0E1GNM" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager" selected="Kotlin.ExcaptionHandlingCoroutinesKt">
+    <configuration name="AsyncCoroutineKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="CoroutinBasics.main" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="AsyncCoroutineKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DispatcherCoroutinesKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="CoroutinBasics.main" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="DispatcherCoroutinesKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExcaptionHandlingCoroutinesKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="CoroutinBasics.main" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="ExcaptionHandlingCoroutinesKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JobsCoroutinesKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="CoroutinBasics.main" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="JobsCoroutinesKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WithContextCoroutinesKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="CoroutinBasics.main" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="WithContextCoroutinesKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.ExcaptionHandlingCoroutinesKt" />
+        <item itemvalue="Kotlin.WithContextCoroutinesKt" />
+        <item itemvalue="Kotlin.AsyncCoroutineKt" />
+        <item itemvalue="Kotlin.DispatcherCoroutinesKt" />
+        <item itemvalue="Kotlin.JobsCoroutinesKt" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f5a07115-337e-4d69-8d7f-e788e9485e56" name="Default Changelist" comment="" />
+      <created>1601157374197</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601157374197</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="395" y="259" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1601158586516">
+      <screen x="0" y="23" width="1440" height="852" />
+    </state>
+    <state x="395" y="259" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.852@0.23.1440.852" timestamp="1601158586516" />
+    <state width="1398" height="222" key="GridCell.Tab.0.bottom" timestamp="1601170396756">
+      <screen x="0" y="23" width="1440" height="852" />
+    </state>
+    <state width="1398" height="222" key="GridCell.Tab.0.bottom/0.23.1440.852@0.23.1440.852" timestamp="1601170396756" />
+    <state width="1398" height="222" key="GridCell.Tab.0.center" timestamp="1601170396756">
+      <screen x="0" y="23" width="1440" height="852" />
+    </state>
+    <state width="1398" height="222" key="GridCell.Tab.0.center/0.23.1440.852@0.23.1440.852" timestamp="1601170396756" />
+    <state width="1398" height="222" key="GridCell.Tab.0.left" timestamp="1601170396755">
+      <screen x="0" y="23" width="1440" height="852" />
+    </state>
+    <state width="1398" height="222" key="GridCell.Tab.0.left/0.23.1440.852@0.23.1440.852" timestamp="1601170396755" />
+    <state width="1398" height="222" key="GridCell.Tab.0.right" timestamp="1601170396756">
+      <screen x="0" y="23" width="1440" height="852" />
+    </state>
+    <state width="1398" height="222" key="GridCell.Tab.0.right/0.23.1440.852@0.23.1440.852" timestamp="1601170396756" />
+    <state x="258" y="111" key="Maven.ArtifactSearchDialog" timestamp="1601158129272">
+      <screen x="0" y="23" width="1440" height="852" />
+    </state>
+    <state x="258" y="111" key="Maven.ArtifactSearchDialog/0.23.1440.852@0.23.1440.852" timestamp="1601158129272" />
+    <state x="397" y="281" key="com.intellij.ide.util.TipDialog" timestamp="1601157997648">
+      <screen x="0" y="23" width="1440" height="852" />
+    </state>
+    <state x="397" y="281" key="com.intellij.ide.util.TipDialog/0.23.1440.852@0.23.1440.852" timestamp="1601157997648" />
+  </component>
+</project>
