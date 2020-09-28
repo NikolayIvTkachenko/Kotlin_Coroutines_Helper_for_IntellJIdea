@@ -1,2 +1,3 @@
 rootProject.name = 'CoroutinBasics'
+include 'FlowCoroutines'
 
